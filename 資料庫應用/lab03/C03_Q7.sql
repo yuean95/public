@@ -1,2 +1,2 @@
-SELECT shohin_catalg,COUNY(*) FROM shohin
+SELECT shohin_catalg,COUNT(*) FROM shohin
   GROUP BY shohin_catalg;
