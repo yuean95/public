@@ -2,7 +2,7 @@ CREATE TABLE SampleStr(
     str1 VARCHAR(40),
     str2 VARCHAR(40),
     str3 VARCHAR(40)
-);
+)DEFAULT CHARSET=utf8;
 
 START TRANSACTION;
 
