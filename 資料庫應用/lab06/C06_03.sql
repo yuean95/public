@@ -1,0 +1,1 @@
+INSERT INTO orders VALUES('0','Computer',CURRENT_TIMESTAMP);
